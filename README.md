@@ -22,13 +22,18 @@ Here are some ideas to get you started:
 ---
 
 ### 📘 Completed 42KL Projects
-| No  | Project                                     | Status  |
-| :-: | :-----------------------------------------  | :----:  |
-| 1   | [Libft](../../../Libft)                     | ✅     |
-| 2   | [Born2beroot]                               | ✅     |
-| 3   | [ft_printf]                                 | ✅     |
-| 4   | [get_next_line]                             | ✅     |
-| 5   | [minitalk]                                  | ✅     |
+|No|Project|
+|:-:|:-----------------------------------------|
+|1| [Libft](../../../Libft)|
+|2| [Born2beroot]|
+|3| [ft_printf](../../../ft_printf)|
+|4| [get_next_line](../../../get_next_line)|
+|5| [minitalk](../../../minitalk)|
+
+---
+
+### Current Project
+[fdf](../../../fdf)
 
 ---
 
