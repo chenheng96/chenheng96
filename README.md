@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Heng 👋
 
 <!--
 **chenheng96/chenheng96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,29 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/chenheng96/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div>
+
+### 👨‍💻 About Me
+- I am a accounting graduate, currently studying as a full time cadet at [42 Kuala Lumpur](https://42kl.edu.my), a coding school in Malaysia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenheng96/)
 
 ---
 
-### 👨‍💻 About Me :
-- I am a accounting graduate, currently is a full time cadet at 42 Kuala Lumpur, a coding school in Malaysia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chenheng96&theme=dark&background=000000)](https://git.io/streak-stats)
+### 📘 Completed 42KL Projects
+| No  | Project                                     | Status  |
+| :-: | :-----------------------------------------  | :----:  |
+| 1   | [Libft](../../../Libft)                     | ✅     |
+| 2   | [Born2beroot]                               | ✅     |
+| 3   | [ft_printf]                                 | ✅     |
+| 4   | [get_next_line]                             | ✅     |
+| 5   | [minitalk]                                  | ✅     |
 
 ---
 
 ### 👨‍💻 Programming language
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenheng96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
