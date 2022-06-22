@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |No|Project|Score|
 |:-:|:-----------------------------------------| :-----: |
 |1| [Libft](../../../Libft)|[![cchong's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2550317)](https://github.com/chenheng96/badge42)|
-|2| [Born2beroot]|[![cchong's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2566955)](https://github.com/chenheng96/badge42)|
+|2| [Born2beroot](../../../Born2beroot)|[![cchong's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2566955)](https://github.com/chenheng96/badge42)|
 |3| [ft_printf](../../../ft_printf)|[![cchong's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2565799)](https://github.com/chenheng96/badge42)|
 |4| [get_next_line](../../../get_next_line)|[![cchong's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2566954)](https://github.com/chenheng96/badge42)|
 |5| [minitalk](../../../minitalk)|[![cchong's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2601327)](https://github.com/chenheng96/badge42)|
