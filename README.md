@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![cchong's 42 stats](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/stats?cursusId=21&coalitionId=181)](https://github.com/chenheng96/badge42)
+
+---
+
 ### 📘 Completed 42KL Projects
 |No|Project|
 |:-:|:-----------------------------------------|
