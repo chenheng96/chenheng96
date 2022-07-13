@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 |3| [ft_printf](../../../ft_printf)|[![cchong's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2565799)](https://github.com/chenheng96/badge42)|
 |4| [get_next_line](../../../get_next_line)|[![cchong's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2566954)](https://github.com/chenheng96/badge42)|
 |5| [minitalk](../../../minitalk)|[![cchong's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2601327)](https://github.com/chenheng96/badge42)|
+|6| [fdf](../../../fdf)|[![cchong's 42 FdF Score](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/project/2606599)](https://github.com/chenheng96/badge42)|
 
 ### 👨‍💻 My 42 status
 [![cchong's 42 stats](https://badge42.vercel.app/api/v2/cl4piietf004509mpi83s2mgw/stats?cursusId=21&coalitionId=181)](https://github.com/chenheng96/badge42)
